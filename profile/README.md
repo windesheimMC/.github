@@ -9,6 +9,12 @@ Dat brengt Windesheim toch weer iets *dichter bij jouw*.
 
 **Zit *jij* op Windesheim? En je hebt nog niet gejoined!? Doe het dan *nu*! Waar? [Op onze website natuurlijk](https://windesheimMC.online/)!**
 
+## Stapje terug
+
+Oké, oké, oké, zet even een stapje terug. Wat is windesheimMC nou eigenlijk? Hoe brengen jullie studenten samen? En wat betekend 'joinen' nou weer?
+
+Wij zijn WindesheimMC, wij zijn een groep studenten HBO-ICT. WindesheimMC is een Minecraft server die *alle* studenten van windesheim kunnen joinen. Dit kan door ons web platform waar studenten kunnen inloggen met hun studenten nummer, en een gebruikersnaam kunnen toevoegen aan onze whitelist. Dit zorgt ervoor dat studenten samen kunnen spelen en bouwen. Samen creatief zijn en problemen oplossen. Dat is windesheimMC. Dat is hoe wij mensen bij elkaar brengen.
+
 ## Contact
 
 Huidige contact informatie is te vinden op [https://windesheimMC.online/about/contact](https://windesheimMC.online/about/contact). U kunt ook altijd een email sturen naar [contact@riley0122.dev](mailto:contact@riley0122.dev).
