@@ -1,6 +1,6 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H1OS9RL)
-![Discord](https://img.shields.io/discord/1422196323507245098?style=flat)
-![Static Badge](https://img.shields.io/badge/Join-now!-green?style=flat&color=green&link=https%3A%2F%2FwindesheimMC.online%2F)
+[![Discord](https://img.shields.io/discord/1422196323507245098?style=flat)](https://discord.gg/kY57mRgKPq)
+[![Static Badge](https://img.shields.io/badge/Join-now!-green)](https://windesheimMC.online/)
 
 # Hallo, Windesheim!
 
